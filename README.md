@@ -1,1 +1,1 @@
-Real time air quality map based on http://aqicn.org
+Real time air quality map module for Joomla based on http://aqicn.org
